@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Minhas Despesas",
+    "slug": "projeto-despesas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.projeto.despesas"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
